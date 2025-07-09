@@ -13,4 +13,5 @@ This project implements a positional inverted index using the NLTK Gutenberg cor
 - Member 2: Parth
 - Member 3: Adithya 
 
+dataset link: https://www.gutenberg.org/ebooks/158
 
